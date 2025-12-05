@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank!  
+### Full Stack Developer | React | Node.js | Database | UI/UX
 
-<!--
-**smayank001/smayank001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building responsive and high-performance web apps  
+🌱 Currently learning: WebRTC, AWS  
+💼 Open for freelance & full-time opportunities  
+📍 Location: India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+💻 Frontend: React.js, Redux, Tailwind CSS, HTML, CSS, JavaScript  
+⚙️ Backend: Node.js, Express.js  
+🗄️ Databases: PostgreSQL, MySQL, MongoDB, DuckDB  
+🌐 Others: WebSockets, Cloudflare, Git, GitHub Actions
+
+---
+
+### 🔥 Featured Projects  
+| Project | Description | Tech | Repo |
+|--------|-------------|------|------|
+| HSRP Booking System | Multi-step booking with admin dashboard | React, Node, DuckDB | 🔗 [View Repo](#) |
+| Dance Academy Website | Live classes, smooth UI, bookings | React, WebRTC | 🔗 [View Repo](#) |
+| Portfolio Website | Modern animations, 3D effects | React, GSAP | 🔗 [View Repo](#) |
+
+---
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 🌍 Connect With Me  
+<a href="mailto:yourmail@gmail.com">📩 Mail</a> •
+<a href="https://yourportfolio.com">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
+
+---
+
+⭐️ **Feel free to star my projects and get in touch!**
