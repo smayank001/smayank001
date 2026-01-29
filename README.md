@@ -38,7 +38,7 @@
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| **E-School Management Platform** | Role-based dashboards, real-time data charts | React, Node, Supabase | 🔗 Coming Soon |
+| **E-School Management Platform** | Role-based dashboards, real-time data charts | React, Node, Supabase | 🔗https://educrm-school.vercel.app/ |
 | **AToZ Car Rentals** | CRUD bookings, secure auth, responsive UI | React, Node, MySQL | 🔗 https://atozcarrental.netlify.app/ |
 | **HSRP Booking System** | Multi-step booking, admin dashboard, QR & uploads | React, Express, DuckDB | 🔗 Coming Soon |
 | **Food Delivery UI** | Full responsive ordering UI in Next.js | Next.js | 🔗  |
