@@ -1,7 +1,7 @@
 <!-- Banner / Hero Section -->
 <div align="center">
   <h1>👋 Hey, I'm <span style="color:#4F9EFF;">Mayank Saxena</span></h1>
-  <h3>Full Stack Developer | AI Engineer | React.js | Next.js | Node.js | PostgreSQL 🚀</h3>
+  <h3> AI Engineer | Full Stack Developer | React.js | Next.js | Node.js | PostgreSQL 🚀</h3>
   
   <p><b>Building high-performance & scalable web apps with clean UI/UX</b></p>
   <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400px" alt="coding image"/>
